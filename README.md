@@ -1,2 +1,2 @@
 # learn-machine-learning
-ex for machine learning from coursera by Andrew Ng
+ex in python of machine learning online course from coursera by Andrew Ng 
